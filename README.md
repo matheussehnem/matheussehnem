@@ -53,7 +53,7 @@
 
 <td width="30%" valign="top">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RyMmFlcDgxYW91cHA3OWJjajM5bG5rOW55NmpsbHJ5NXN3bzI3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8E24u98R0g1041Bd7N/giphy.gif" width="450"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/5eeea355389655.59822ff824b72.gif" width="450"/>
 
 </td>
 
