@@ -7,6 +7,12 @@
 - 📫 How to reach me **matheus.sehnem@Outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
+
+<table>
+<tr>
+
+<td width="70%" valign="center">
+
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
@@ -36,7 +42,19 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>     
   <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a>
+
 </p>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a>  
 </p>
+
+</td>
+
+<td width="30%" valign="top">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RyMmFlcDgxYW91cHA3OWJjajM5bG5rOW55NmpsbHJ5NXN3bzI3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8E24u98R0g1041Bd7N/giphy.gif" width="500"/>
+
+</td>
+
+</tr>
+</table>
